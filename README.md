@@ -1,4 +1,4 @@
-## Hugh Lin · 林耕远
+## Hugh Lin · 林耿塬
 
 > Pushing LLMs to the edge of what a single MacBook can do.
 
